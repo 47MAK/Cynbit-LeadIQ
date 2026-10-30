@@ -10,14 +10,13 @@ The prototype classifies inquiry text, extracts available budget and timeline in
 
 
 ## Run in Google Colab
-1. Download and extract the project ZIP.
-2. Open https://colab.research.google.com/.
-3. Select **File → Upload notebook** and upload `Cynbit_LeadIQ_PoC.ipynb`.
-4. Run cells from top to bottom.
-5. When prompted, upload `data/sample_inquiries.csv`.
-6. The notebook loads `all-MiniLM-L6-v2`; if unavailable, it uses a TF-IDF fallback.
-7. Run the Gradio cell to launch the interactive inquiry-analysis demo.
-8. Run the final export cell to process the sample dataset and download `leadiq_analyzed_inquiries.csv`.
+1. Open https://colab.research.google.com/.
+2. Select **File → Upload notebook** and upload `Cynbit LeadIQ.ipynb`.
+3. Run cells from top to bottom.
+4. When prompted, upload `data/sample_inquiries.csv`.
+5. The notebook loads `all-MiniLM-L6-v2`; if unavailable, it uses a TF-IDF fallback.
+6. Run the Gradio cell to launch the interactive inquiry-analysis demo.
+7. Run the final export cell to process the sample dataset and download `leadiq_analyzed_inquiries.csv`.
 
 ## What it demonstrates
 - Semantic service/product classification using Sentence Transformers (`all-MiniLM-L6-v2`).
