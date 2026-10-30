@@ -1,0 +1,17 @@
+inquiry_id,source_channel,inquiry_text,provided_category,industry,budget_inr,timeline,product
+LQ001,Blueprint,We are a healthcare startup looking to build an AI assistant that can answer patient questions and automate appointment requests. We want to discuss a custom solution. Our budget is around Rs 5 lakh and we hope to start in 2 months.,HealthTech,Healthcare,500000,2 months,
+LQ002,Service Inquiry,"Need a mobile app for our food delivery business with customer app, driver app and admin dashboard. Budget 8 lakh. Looking to start next month.",Custom Software Development,Food & Beverage,800000,1 month,
+LQ003,Product Demo,I would like to see a demo of TenantEase for managing rental properties. We manage around 120 units and want to understand the pricing.,TenantEase,Real Estate,,Not specified,TenantEase
+LQ004,General Contact,"Hello, I would like to know more about your company and the services you provide.",General,Other,,Not specified,
+LQ005,Service Inquiry,"We need help improving our cloud infrastructure, CI/CD pipeline and deployment reliability. Can someone contact us this week?",Cloud & DevOps,Technology,,1 week,
+LQ006,Blueprint,Our retail company wants to automate lead follow-ups and CRM updates using AI. We currently use a CRM and receive about 300 leads each month. Budget is Rs 3 lakh.,AI Automation & Agents,Retail,300000,3 months,
+LQ007,Product Demo,Please schedule a demo of Revio. We are evaluating tools for our sales team and hope to make a decision within 30 days.,Revio,Sales,,30 days,Revio
+LQ008,Service Inquiry,Looking for technical SEO and digital marketing support for our ecommerce website. Please share how you work.,Digital Marketing & SEO,E-commerce,,Not specified,
+LQ009,Blueprint,"We want to build a SaaS platform for schools including student management, fee tracking and parent communication. We have a clear requirement document and budget of Rs 12 lakh.",Custom Software Development,Education,1200000,4 months,
+LQ010,Service Inquiry,Can you help us build an AI voice agent to handle inbound calls and qualify customer requests? We need a proposal urgently.,AI Automation & Agents,Professional Services,,Urgent,
+LQ011,Product Demo,Interested in Cynbit Studio. Can we get a walkthrough for our internal team next week?,Cynbit Studio,Technology,,1 week,Cynbit Studio
+LQ012,General Contact,I am exploring a possible partnership and would like to connect with your team.,Partnership,Other,,Not specified,
+LQ013,Blueprint,We need a website redesign for our consulting firm. We are still exploring options and do not have a fixed budget or timeline.,Web Development,Professional Services,,Not specified,
+LQ014,Service Inquiry,"Our sales team needs CRM workflow automation, lead assignment rules and reporting. We can allocate around Rs 2 lakh and want to begin in 6 weeks.",CRM & Sales Automation,Professional Services,200000,6 weeks,
+LQ015,Product Demo,Please share more information about TenantEase. We may consider it for a small portfolio of 15 apartments later this year.,TenantEase,Real Estate,,Later this year,TenantEase
+LQ016,Service Inquiry,Need a secure cloud migration plan for our existing application. Please arrange a discovery call as soon as possible.,Cloud & DevOps,Technology,,Urgent,
