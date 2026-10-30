@@ -11,7 +11,7 @@ The prototype classifies inquiry text, extracts available budget and timeline in
 
 ## Run in Google Colab
 1. Open https://colab.research.google.com/.
-2. Select **File → Upload notebook** and upload `Cynbit LeadIQ.ipynb`.
+2. Select **File → Upload notebook** and upload `Cynbit_LeadIQ.ipynb`.
 3. Run cells from top to bottom.
 4. When prompted, upload `data/sample_inquiries.csv`.
 5. The notebook loads `all-MiniLM-L6-v2`; if unavailable, it uses a TF-IDF fallback.
