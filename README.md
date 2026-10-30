@@ -7,19 +7,7 @@ The prototype classifies inquiry text, extracts available budget and timeline in
 
 **Scope:** Uses synthetic sample inquiries only. It is not connected to Cynbit's live website, CRM, email, or customer database. Priority is a rule-based heuristic, not a trained probability of lead conversion.
 
-## Project structure
-```text
-Cynbit_LeadIQ_Colab_PoC/
-├── Cynbit_LeadIQ_PoC.ipynb
-├── README.md
-├── requirements.txt
-├── data/
-│   └── sample_inquiries.csv
-├── docs/
-│   └── architecture.md
-└── reports/
-    └── Technical_Approach_Report.pdf
-```
+
 
 ## Run in Google Colab
 1. Download and extract the project ZIP.
